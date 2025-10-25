@@ -2,6 +2,13 @@
 
 I’m a Computer Science undergrad (3.9 GPA) graduating **May 2026**. I’m strengthening my cybersecurity skill set through **Python scripting** and hands-on **security projects**—from log analysis and IDS/IPS labs to cloud hardening.
 
+### Experience
+- **Cybersecurity Intern — Mobile Health Infirmary (Healthcare)**  
+  Helped migrate on-prem → AWS; built Python scripts for log triage; supported network monitoring and access control.
+- **Research — Lightweight Detection & Anomaly Analysis**  
+  Prototyped Python pipelines for behavioral detection; evaluated precision/recall and PR-AUC on lab datasets.
+
+
 ### What I’m doing now
 - **Security Projects:** Python tools for log parsing, IOC enrichment, and alert triage.
 - **IDS/IPS Lab:** pfSense + Suricata with EVE-JSON logs (Kali → pfSense → Ubuntu).
