@@ -6,9 +6,9 @@ I’m a Computer Science undergrad (3.9 GPA) graduating **May 2026**. I’m stre
 - **Cybersecurity Intern — Mobile Health Infirmary (Healthcare)**  
   Helped migrate on-prem → AWS; built Python scripts for log triage; supported network monitoring and access control.
 - **Research — Phase Space Algorithm to Detect Malware**  
-  Applied a phase space algorithm to detect anomalies in a system behavior in different malware families, identifying anomalies in system behavior.
-  Transformed malware behavioral data into symbolic sequences and designed graphs to help decipher normal behavior from malicious behavior.
-  Executed Experiments to evaluate detection under obfuscation, strengthening algorithm resilience. 
+  - Applied a phase space algorithm to detect anomalies in a system behavior in different malware families, identifying anomalies in system behavior.
+  - Transformed malware behavioral data into symbolic sequences and designed graphs to help decipher normal behavior from malicious behavior.
+  - Executed Experiments to evaluate detection under obfuscation, strengthening algorithm resilience. 
 
 
 
