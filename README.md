@@ -1,6 +1,6 @@
 ## Jason Sonith — CS Undergrad (May 2026) | Cybersecurity Focus
 
-I’m a Computer Science undergrad (3.9 GPA) graduating **May 2026**. I’m strengthening my cybersecurity skill set through **Python scripting** and hands-on **security projects**—from log analysis and IDS/IPS labs to cloud hardening.
+I’m a Computer Science undergrad (3.9 GPA) graduating **May 2026**. I’m strengthening my cybersecurity skill set through **Python scripting** and hands-on **security projects**—from log analysis and IDS/IPS labs to python scripting.
 
 ### Experience
 - **Cybersecurity Intern — Mobile Health Infirmary (Healthcare)**  
