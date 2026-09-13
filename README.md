@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/experience.svg" alt="cat experience.log: Product Security Assurance Intern, Honeywell; Cybersecurity Intern, Mobile Health Infirmary; Research Assistant, University of South Alabama" width="49%">
-  <img src="assets/certs.svg" alt="cat certs.txt: CompTIA Security+; CompTIA CySA+; AWS Cloud Practitioner; School of Computing Student of the Year, University of South Alabama (2025-2026)" width="49%">
+  <img src="assets/experience.svg" alt="cat experience.log: Product Security Assurance Intern, Honeywell; Cybersecurity Intern, Mobile Health Infirmary; Research Assistant, Earthquake Prediction, University of South Alabama" width="49%">
+  <img src="assets/certs.svg" alt="cat certs.txt skills.txt: CompTIA Security+; CompTIA CySA+; AWS Cloud Practitioner; School of Computing Student of the Year, University of South Alabama (2025-2026); languages: Python, Java, C, TypeScript, JavaScript, Bash, PowerShell" width="49%">
 </p>
 
 ### `cat experience.log --verbose`
@@ -25,9 +25,10 @@
   - Monitored network activity for vulnerabilities, supported system hardening, and resolved staff access issues.
   - Developed and implemented a NIST-aligned incident response playbook defining severity levels, response roles, evidence handling, and recovery validation to support HIPAA/HITECH requirements.
   - Supported migration of on-premises systems to AWS.
-- **Research Assistant**, University of South Alabama (Jul 2025-May 2026)
-  - Built Python preprocessing scripts with ObsPy and pandas to extract metadata and normalize seismic recordings.
-  - Tuned a nonlinear phase space classifier across 16 graph features and 600,000 labeled waveforms.
+- **Research Assistant, Earthquake Prediction**, University of South Alabama (Jul 2025-May 2026)
+  - Co-authored "Early Warning of Earthquakes from Broadband Seismic Streams with NLPSA", applying nonlinear phase space analysis to earthquake early warning.
+  - Built a Python pipeline (ObsPy, pandas, NumPy, SciPy) that pulls three-component broadband data from IRIS station IU.ANMO and labels P-wave, S-wave, and coda arrivals with TauP on the IASP91 model.
+  - Ran a Monte Carlo sweep of 284 NLPSA parameter sets over ten regional earthquakes (M5.7-7.0) and three non-event windows; 65.5% separated every event window from every non-event window.
 
 ### `ls -la ~/projects`
 
@@ -37,7 +38,7 @@
 | [OSCP Penetration Testing Labs](https://github.com/JasonSonith/OSCP) | Hands-on offensive practice while preparing for the OSCP. | Linux, Nmap, Burp Suite, Metasploit |
 | [Nextcloud Security Assessment Lab](https://github.com/JasonSonith/Team-7-nextcloud-security-lab) | Docker lab with nginx, TLS, and MariaDB, attacked to assess a self-hosted Nextcloud. | Docker, nginx, MariaDB, Burp Suite, OWASP ZAP, Nmap |
 | **Multi-Agent AI Medical Device Validation Platform** | Python pipeline that scrapes manufacturer sites and validates device data against the FDA GUDID database. | Python, bcrypt, RBAC, OWASP ZAP |
-| [Earthquake Prediction Research](https://github.com/JasonSonith/Earthquake-prediction) | Nonlinear phase space classification of seismic waveforms. | Python, ObsPy, pandas |
+| [Seismic Early Warning with NLPSA](https://github.com/JasonSonith/Earthquake-prediction) | Earthquake early warning from broadband seismic streams using nonlinear phase space analysis instead of deep learning pickers. | Python, ObsPy, NumPy, SciPy, Java |
 | [pfSense IDS/IPS Lab](https://github.com/JasonSonith/pfsense-ids-ips-lab) | Small enterprise network simulation with Kali Linux as the attacker and pfSense providing IDS/IPS. | pfSense, Kali Linux, Ubuntu |
 | [python-log-analyzer](https://github.com/JasonSonith/python-log-analyzer) | Script that analyzes JSON logs and flags suspicious events. | Python |
 
@@ -47,6 +48,12 @@
 - CompTIA CySA+
 - AWS Cloud Practitioner
 - School of Computing Student of the Year, University of South Alabama (2025-2026)
+
+### `cat skills.txt`
+
+- **security**: Burp Suite, Nmap, OWASP ZAP, Metasploit, Gobuster, Splunk, Nessus, pfSense, WireGuard, Kali Linux
+- **cloud**: AWS IAM, EC2, S3, GuardDuty, CloudTrail, Config, Linux, Docker
+- **languages**: Python, Java, C, TypeScript, JavaScript, Bash, PowerShell
 
 ### `cat education.txt`
 
